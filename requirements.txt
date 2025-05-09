@@ -1,3 +1,5 @@
-ipywidgets
 voila
+ipywidgets
 pandas
+numpy
+matplotlib
